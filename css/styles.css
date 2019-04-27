@@ -140,10 +140,10 @@ h2, h3{
     text-align: center;
   }
   .container-fluid{
-    padding: 0;
+    padding: 35% 0;
   }
   #title .container-fluid{
-    padding: 3% 0 17%;
+    padding: 3% 3% 17%;
   }
 }
 
