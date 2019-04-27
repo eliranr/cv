@@ -134,13 +134,13 @@ span{
   .title-image{
     position: static;
     padding-top: 50px;
-    width: 35%;
+    width: 50%;
   }
   .container-fluid{
     padding: 35% 0;
   }
   #title .container-fluid{
-    padding: 3% 7% 17%;
+    padding: 3% 4% 17%;
     text-align: center;
   }
 }
